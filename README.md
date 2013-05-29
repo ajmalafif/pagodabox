@@ -1,4 +1,4 @@
-## pre-configured PagodaBox with Roots Theme for WordPress 3.5.1 setup
+## Pre-configured PagodaBox with Roots Theme for WordPress 3.5.1 setup
 
 ### First step
 
