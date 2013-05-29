@@ -1,6 +1,6 @@
 ## Pre-configured PagodaBox with Roots Theme for WordPress 3.5.1 setup
 
-### First step
+### First step [Github repo](https://github.com/ajmalafif/pagodabox)
 
 Added `.htaccess` into `pagoda` folder and edited `Boxfile` to include as such
 
